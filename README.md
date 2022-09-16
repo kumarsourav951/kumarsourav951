@@ -1,13 +1,13 @@
 ![MasterHead](https://raw.githubusercontent.com/kumarsourav951/assets/main/images/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Sourav Kumar</h1>
 <h3 align="center">A passionate android & web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/kumarsourav951/assets/main/images/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarsourav951&label=Profile%20views&color=0e75b6&style=flat" alt="kumarsourav951" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumarsourav951" alt="kumarsourav951" /></a> </p>
 
-
+<p align="left"> <a href="https://twitter.com/souravkumar951" target="blank"><img src="https://img.shields.io/twitter/follow/souravkumar951?logo=twitter&style=for-the-badge" alt="souravkumar951" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/kumarsourav951/assets/main/images/coding.gif">
 - 🔭 I’m currently working on [C-Programming](https://github.com/kumarsourav951/C-Programming-Examples)
 
 - 🌱 I’m currently learning **JavaScript**
@@ -34,3 +34,5 @@
 <p><a href="https://www.buymeacoffee.com/souravkumar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="souravkumar" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarsourav951&show_icons=true&locale=en&layout=compact" alt="kumarsourav951" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumarsourav951&show_icons=true&locale=en" alt="kumarsourav951" /></p>
