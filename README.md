@@ -1,7 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/kumarsourav951/assets/main/images/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Sourav Kumar</h1>
 <h3 align="center">A passionate android & web developer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/kumarsourav951/assets/main/images/coding.gif">
+<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/kumarsourav951/assets/main/images/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarsourav951&label=Profile%20views&color=0e75b6&style=flat" alt="kumarsourav951" /> </p>
 
