@@ -1,4 +1,3 @@
-![MasterHead](https://raw.githubusercontent.com/kumarsourav951/assets/main/images/2000_600px.gif)
 [![@kumarsourav951's Holopin board](https://holopin.io/api/user/board?user=kumarsourav951)](https://holopin.io/@kumarsourav951)
 <h1 align="center">Hi 👋, I'm Sourav Kumar</h1>
 <h3 align="center">A passionate android & web developer from India</h3>
